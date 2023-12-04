@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entertainments>
+    <entertainment>
+        <name>Концерт "Рок в парке"</name>
+        <category>Музыка</category>
+        <description>Концерт рок-группы в парковой зоне</description>
+        <place>Центральный парк, пр-т Независимости 25</place>
+        <price>500.0</price>
+    </entertainment>
+    <entertainment>
+        <name>Театральное представление "Шекспировские сонеты"</name>
+        <category>Театр</category>
+        <description>Интерпретация Шекспировских сонетов в современном стиле</description>
+        <place>Городской театр, ул. Козлова 5</place>
+        <price>800.0</price>
+    </entertainment>
+    <entertainment>
+        <name>Выставка современного искусства</name>
+        <category>Искусство</category>
+        <description>Выставка работ современных художников</description>
+        <place>Галерея искусства, ул. Пролетарская 12</place>
+        <price>200.0</price>
+    </entertainment>
+    <entertainment>
+        <name>Киносеанс "Приключения в джунглях"</name>
+        <category>Кино</category>
+        <description>Увлекательный фильм о приключениях в джунглях</description>
+        <place>Кинотеатр "Аврора", пр-т Победителей 5</place>
+        <price>300.0</price>
+    </entertainment>
+    <entertainment>
+        <name>Выставка динозавров</name>
+        <category>Музей</category>
+        <description>Выставка с реалистичными моделями динозавров</description>
+        <place>Музей естественной истории, ул. Карла Маркса 33</place>
+        <price>150.0</price>
+    </entertainment>
+    <entertainment>
+        <name>Квест "Загадка профессора"</name>
+        <category>Интерактив</category>
+        <description>Интерактивный квест с загадками и головоломками</description>
+        <place>Квест-комната "Парадокс", пр-т Независимости 88</place>
+        <price>600.0</price>
+    </entertainment>
+    <entertainment>
+        <name>Концерт "Классика в исполнении молодых талантов"</name>
+        <category>Музыка</category>
+        <description>Концерт классической музыки в исполнении талантливых молодых музыкантов</description>
+        <place>Филармония, ул. Мясникова 25</place>
+        <price>400.0</price>
+    </entertainment>
+</entertainments>
